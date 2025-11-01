@@ -1,4 +1,4 @@
-package EliteBeforeFire.utils;
+package EchoForm.utils;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
